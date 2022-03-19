@@ -1,6 +1,6 @@
 # README
 ![snake svg](https://github.com/Meralinka/Meralinka/blob/output/github-contribution-grid-snake.svg)
-<h3 align="center">Hey there, I'm Harun  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+<h3 align="center">Hey there, I'm Meral  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 <p> <img alt="Coding" width="360" height="200" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/World_Map_Blank.svg" >
 <h3 align="center">Join to my DEVOPS Journey
 
@@ -10,7 +10,7 @@
 
 - 👋 Hi, I’m @Meral
 - 👨‍🎓 I’m an Engineer
-- 👨‍🏫 I’m interested in IT, Automation and Electronic
+- 👨‍🏫 I’m interested in IT
 - 👀 I’m currently learning AWS and DevOps 
 - 🥇 I like 🏊‍♂, ⛹‍♂, 🚵‍♂, 🎣 and i love cats 🐈 especially GITHUB CAT <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/github-logo-octocat-.gif" width="4%">
 - 💞️ I’m looking to collaborate on DevOps;
